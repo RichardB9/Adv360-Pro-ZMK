@@ -116,4 +116,5 @@ https://kinesis-ergo.com/support/kb360pro/#firmware-updates
 https://kinesis-ergo.com/support/kb360pro/#manuals
 
 GUI: https://kinesiscorporation.github.io/Adv360-Pro-GUI/
+Improved GUI editor: https://nickcoutsos.github.io/keymap-editor/
 
