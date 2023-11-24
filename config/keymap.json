@@ -8,7 +8,6 @@
     "fn",
     "mod",
     "GAME",
-    "Layer #5"
   ],
   "layers": [
     [
@@ -41,12 +40,6 @@
        "&trans", "&kp LEFT_SHIFT",        "&kp A",        "&kp S",        "&kp D",        "&kp F",               "&kp G",           "&trans", "&trans",                     "&trans", "&trans", "&kp END",  "&kp H",    "&kp J",     "&kp K",    "&kp L", "&kp SEMI",   "&kp SQT",
        "&trans",         "&trans",        "&kp Z",        "&kp X",        "&kp C",        "&kp V",                                            "&trans",                     "&trans",                       "&kp N",    "&kp M", "&kp COMMA",  "&kp DOT", "&kp FSLH", "&kp RSHFT",
        "&trans",         "&trans",       "&trans",       "&trans",       "&trans",                           "&kp SPACE", "&kp LEFT_CONTROL", "&trans",                     "&trans", "&trans", "&trans",           "&kp DOWN",    "&kp UP", "&kp LBKT", "&kp RBKT",     "&mo 2"
-    ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
